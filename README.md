@@ -7,20 +7,20 @@ I build small projects in **C, Python, HTML/CSS, JavaScript** and ship my course
 - 🧩 Interests: practical web apps, data parsing, CLI tools
 - 🎯 Goal (2025): solidify full-stack fundamentals and publish more clean, runnable repos
 
-## Tech Stack
+⚡ Tech Stack
 - Languages: **C**, **Python**, **JavaScript**
 - Web: **HTML5**, **CSS3**
 - Workflow: **Git**, **VS Code**, Windows (UTF-8 console)
 - Profile: full-stack learner (frontend + simple backends)
 
-⚡ ## Featured / Recent
+⚡ Featured / Recent
 - **Wikipedia Console Search (Java)** – simple CLI using MediaWiki API (UTF-8, JSON, browser open) *(coursework)*  
 - **Address Statistics (Java)** – CSV/XML readers, duplicate detection, per-city floor histogram *(coursework)*
 - **Mini full-stack demos** – static pages + basic JS; Python/C exercises
 
 > I keep my projects small, focused, and runnable with clear READMEs and scripts.
 
-📫 ## Contact 
+📫  Contact 
 - Email: **byressra@gmail.com**  
 - LinkedIn: **https://www.linkedin.com/in/esra-bayram-914592376**
 
