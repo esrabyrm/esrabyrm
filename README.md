@@ -8,10 +8,10 @@ I build small projects in **C, Python, HTML/CSS, JavaScript** and ship my course
 - 🎯 Goal (2025): solidify full-stack fundamentals and publish more clean, runnable repos
 
 ⚡ Tech Stack
-- Languages: **C**, **Python**, **JavaScript**
+- Languages: **C**, **Python**, **JavaScript**, **C++**, **Java**
 - Web: **HTML5**, **CSS3**
 - Workflow: **Git**, **VS Code**, Windows (UTF-8 console)
-- Profile: full-stack learner (frontend + simple backends)
+- Profile: full-stack learner (frontend + simple backends), Artificial Intelligence / Machine Learning and Cybersecurity.
 
 ⚡ Featured / Recent
 - **Wikipedia Console Search (Java)** – simple CLI using MediaWiki API (UTF-8, JSON, browser open) *(coursework)*  
